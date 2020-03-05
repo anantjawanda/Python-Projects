@@ -1,5 +1,4 @@
 #Anant Jawanda
-#lab05
 
 class HashTable:
     def __init__(self):
